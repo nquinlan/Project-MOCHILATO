@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mochilato</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- added media =  screen -->
+
+  </head>
+  <body>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- css -->
+    <style>
+    body {background-color: #EBD699;} 
+    .col-xs-4 {
+      height: 100px;
+      background-color: blue;
+      color: white;
+      text-align: center;
+      font-size: 100px;
+    }
+
+    .col-xs-8 {
+      height: 100px;
+      background-color: red;
+      color: white;
+      text-align: center;
+      font-size: 100px;
+    }
+
+
+    </style>
+
+    <!-- bootstrapping? -->
+    <div class = "container-fluid">
+      
+      <div class = "row">
+
+          <div class = "col-xs-4">
+          IS BOOTSTRAP WORKING? 
+          </div> 
+
+          <div class = "col-xs-8">
+          NO IT'S NOT WORKING
+          </div>  
+
+      </div> 
+    </div>
+
+  </body>
+</html>
+
+
+
+
+
+
+    
